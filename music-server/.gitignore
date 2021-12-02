@@ -29,3 +29,6 @@ target/
 /nbdist/
 /.nb-gradle/
 node_modules/
+/mv/
+/song/
+/img/
