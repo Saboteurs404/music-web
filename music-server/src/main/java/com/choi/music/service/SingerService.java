@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * @PackageName: com.choi.music.service
- * @Description: 管理员service接口
+ * @Description: 歌手service接口
  * @Author: Envy 461712835@qq.com
  * @Date: 2021/11/30 22:42
  */

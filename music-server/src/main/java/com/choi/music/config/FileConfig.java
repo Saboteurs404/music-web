@@ -23,7 +23,7 @@ public class FileConfig implements WebMvcConfigurer {
                         +System.getProperty("file.separator")+"songListPic"+System.getProperty("file.separator")
         );
         //歌曲图片地址
-        registry.addResourceHandler("/img/songPic/**").addResourceLocations(
+        registry.addResourceHandler("//img/songPic/**").addResourceLocations(
                 "file:"+System.getProperty("user.dir")+System.getProperty("file.separator")+"img"
                         +System.getProperty("file.separator")+"songPic"+System.getProperty("file.separator")
         );

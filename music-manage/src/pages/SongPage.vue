@@ -363,16 +363,18 @@ export default {
         },
         //切换播放歌曲
         setSongUrl(url,name) {
-            this.toggle = name;
-            this.$store.commit('setUrl',this.$store.state.HOST + url);
+              this.toggle = name;
             if(this.isPlay){
+                this.toggle=false;
                 this.$store.commit('setIsPlay',false);
             }else{
+                this.$store.commit('setUrl',this.$store.state.HOST + url);
                 this.$store.commit('setIsPlay',true);
+            }
             }
         }
     }   
-}
+
 </script>
 
 <style scoped>
