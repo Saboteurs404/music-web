@@ -25,9 +25,13 @@ springboot(springmvc + spring + mybatis) + vue + mysql
 
 账号和对应密码：
 管理员： admin    1
+
 ![输入图片说明](ReadMeResource/1638780017(1).jpg)
+
 用户：  root     123456
+
 ![输入图片说明](ReadMeResource/image.png)
+
 2.  xxxx
 3.  xxxx
 
