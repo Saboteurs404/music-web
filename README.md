@@ -40,19 +40,19 @@ MySQL5.7
 
 #### 项目预览
 
-![1638780576(1)](F:\FrameWorkStudy\MusicWeb\music-web\ReadMeResource\1638780576(1).jpg)
+![1638780576(1)](ReadMeResource/1638780576(1).jpg)
 
-![image-20211206165137364](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211206165137364.png)
+![image-20211206165137364](ReadMeResource/image-20211206165137364.png)
 
-![image-20211206165154807](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211206165154807.png)
+![image-20211206165154807](ReadMeResource/image-20211206165154807.png)
 
-![image-20211206165215924](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211206165215924.png)
+![image-20211206165215924](ReadMeResource/image-20211206165215924.png)
 
-![1638780604(1)](F:\FrameWorkStudy\MusicWeb\music-web\ReadMeResource\1638780604(1).jpg)
+![1638780604(1)](ReadMeResource/1638780604(1).jpg)
 
-![1638780624(1)](F:\FrameWorkStudy\MusicWeb\music-web\ReadMeResource\1638780624(1).jpg)![1638780637(1)](F:\FrameWorkStudy\MusicWeb\music-web\ReadMeResource\1638780637(1).jpg)
+![1638780624(1)](ReadMeResource/1638780637(1).jpg)
 
-![1638780651(1)](F:\FrameWorkStudy\MusicWeb\music-web\ReadMeResource\1638780651(1).jpg)
+![1638780651(1)](ReadMeResource/1638780651(1).jpg)
 
 ## 项目功能
 
@@ -84,7 +84,7 @@ https://gitee.com/juice999/music-web.git
 
 去【链接: https://pan.baidu.com/s/1Qv0ohAIPeTthPK_CDwpfWg 提取码: gwa4 】下载网站依赖的歌曲及图片
 
-![1638781152(1)](F:\FrameWorkStudy\MusicWeb\music-web\ReadMeResource\1638781152(1).jpg)
+![1638781152(1)](ReadMeResource/1638781152(1).jpg)
 
 创建数据库 将 `sql` 文件夹中的 `music.sql` 文件导入数据库。
 
