@@ -35,8 +35,7 @@ MySQL5.7
 
 ![输入图片说明](ReadMeResource/image.png)
 
-2.  xxxx
-3.  xxxx
+
 
 #### 项目预览
 
